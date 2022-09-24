@@ -25,3 +25,5 @@ and
 Kronenberg Marlene. Changing glacier firn in Central Asia and its impact on glacier mass balance. PhD Thesis, University of Fribourg, 2022.
 
 when using this data. 
+
+The code is based on the work by Ward van Pelt. See also https://github.com/wardvp/EBFM-glacier
