@@ -11,7 +11,7 @@ climate_cloud_sensitivity_5.mat consists of the alternative forcing with bias co
 climate_cloud_sensitivity_6.mat consists of original forcing with uncorrected simulated cloud cover.
 climate_cloud_sensitivity_7.mat consists of the original forcing with bias corrected cloud cover not yet homogenized with summer precipitation. 
 
-EBM_snow_parameter_sensitivity.m (with func_init_constants_update.m) was used to assess the EBFM output sensitivity for Abramov glacier for disturbed model parameters as specified in parameter_list.mat/parameter_list.txt.
+EBM_snow_parameter_sensitivity.m (with func_init_constants_update.m) was used to assess the EBFM output sensitivity for Abramov glacier for disturbed model parameters as specified in parameter_list.mat/parameter_list.txt. Please refer to parameter_list_with_header.xlsx for details. 
 
 For both cases, five gridpoints as specified in grid_abra68_100m_5pts.mat with the subsurface conditions specified in the bootfile_run_HP227.mat were used.
 
